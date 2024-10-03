@@ -1,0 +1,5 @@
+regolith.look.path: /usr/share/regolith-look/gruvbox
+regolith.wallpaper.file: /usr/share/backgrounds/gruvbox_minimal_space.png
+
+gnome.terminal.font: JetBrainsMono Nerd Font Mono 15
+i3-wm.bar.font: pango:monospace 15
